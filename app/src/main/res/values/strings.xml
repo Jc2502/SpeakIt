@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Speak Up</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="Frequently">Frequently</string>
+    <string name="Statements">Statements</string>
+    <string name="Speak">Speak</string>
     <string name="action_settings">Settings</string>
 </resources>
